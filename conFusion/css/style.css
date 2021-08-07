@@ -3,18 +3,25 @@
     padding: 0px auto;
  }
  
- 
+ .row-content
+ {
+   margin:0px auto;
+   padding:50px 0px 50px 0px ; 
+   min-width: 400px; 
+   border-bottom: 1px ridge;
+}
+
 .footer{
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
-background-color:plum ;
+    background-color:plum ;
 }
 
 .jumbotron  {
- margin: 0px auto;
- padding: 70px 30px 70px 30px ;
- background-color: rebeccapurple;
- color: floralwhite;
+    margin: 0px auto;
+    padding: 70px 30px 70px 30px ;
+    background-color: rebeccapurple;
+    color: floralwhite;
 }
 
 .address{
